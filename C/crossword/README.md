@@ -1,7 +1,7 @@
 ## Crossword
 #### this program takes as input a crossword board, its list of words
    and checks if there is a solution for the given list of words and
-   the board.
+   the board. The program reads the inputs from a text file whose name is given as a command line argument and outputs the result as out.txt
    
    The input goes as follows: 
    - It first reads the size of the board, as lines and columns.
