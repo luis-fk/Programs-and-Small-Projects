@@ -10,40 +10,23 @@
    - Finally is the list of words to be tried in the board
 
 An example of an input below:
-5 4
-
--1 0 0 0
-
-0 0 0 0
-
-0 0 -1 0
-
-0 0 0 0
-
-0 -1 0 0
-
-10
-
-ad
-
-antas
-
-carn
-
-casa
-
-do
-
-lado
-
-lua
-
-os
-
-soda
-
-ur
-
+5 4  
+-1 0 0 0  
+0 0 0 0  
+0 0 -1 0  
+0 0 0 0  
+0 -1 0 0  
+10  
+ad  
+antas  
+carn  
+casa  
+do  
+lado  
+lua  
+os  
+soda  
+ur  
 
 The caveat of this program is that the list of words can only start at the left edges of the board going left to right and the top edge going top to bottom. 
 Also, words can start right next to spaces where words cannot be placed (-1). In these cases, it behaves as it if were and edge
