@@ -9,7 +9,8 @@
    - Next is the number of words
    - Finally is the list of words to be tried in the board
 
-An example of an input below:
+An example of an input below:  
+
 5 4  
 -1 0 0 0  
 0 0 0 0  
