@@ -1,4 +1,4 @@
-###Simulador de banco
+### Simulador de banco
 
 A implementacao desse simulador de banco foi feita através da encapsulação e não pelo método de polymorfiso. Isso porque eu tinha dúvidas em como implementar esse programa do jeito pedido no enunciado e achei que seria mais fácil implementar desse jeito.
 
@@ -21,11 +21,11 @@ A implementação acabou ficando bastante bagunçada na minha opinião, por isso
 - uma das classes mais importantes, que guarda agencia, numero da agencia, tipo da conta e saldos. Essa classes é responsável pelas transferências externas e internas e faz todas as verificações antes da transferência ser feita.
 
 ## continua.java
-É uma classes simples que implementei para deixar o menu mais bonitinho, deixando o usuário escolher se ele quer continuar e fazer mais operações ou simplesmente fechar e menu.
+- É uma classes simples que implementei para deixar o menu mais bonitinho, deixando o usuário escolher se ele quer continuar e fazer mais operações ou simplesmente fechar e menu.
 
 ## endereco.java
-Essa classes armazena todas as informações do endereço do cliente e apenas server para printar todas elas.
+- Essa classes armazena todas as informações do endereço do cliente e apenas server para printar todas elas.
 
 ## tipo.java
-Essa classe é responsável por guardar o tipo de conta entre corrente comum ou especial, poupanca e conjunta. Ela armazena também o número do cliente se a conta for conjunta e seu nome, sendo esse nome a único informação duplicada na memória.
+- Essa classe é responsável por guardar o tipo de conta entre corrente comum ou especial, poupanca e conjunta. Ela armazena também o número do cliente se a conta for conjunta e seu nome, sendo esse nome a único informação duplicada na memória.
 
